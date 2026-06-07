@@ -6,3 +6,9 @@ E-Commerce Web Application Manual Testing Project on Demo Web Shop (Tricentis). 
 ![Pass Rate](https://img.shields.io/badge/Pass%20Rate-86.7%25-green)
 ![Type](https://img.shields.io/badge/Testing%20Type-Manual-orange)
 ![Platform](https://img.shields.io/badge/Platform-Web-lightgrey)
+
+
+# Test Plan
+Test Plan a document that defines the testing strategy, scope, objectives, environment, schedule, and resources for the E-Commerce Manual Testing Project.
+
+<a href="https://github.com/LOKCHANDHRU/E-Commerce-Web-Application-Manual-Testing-Project/blob/main/E%20-%20Comerece_Test_Plan.pdf">Test Plan</a>
