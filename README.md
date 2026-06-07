@@ -38,7 +38,15 @@ This document contains requirements traceability matrix mapping for each require
 
 <a href="https://github.com/LOKCHANDHRU/E-Commerce-Web-Application-Manual-Testing-Project/blob/main/RTM_report.xlsx">RTM Report</a>
 
+# Test Summary Report
+A final sign-off document summarizing the overall testing outcome, defect metrics, pass/fail analysis, and project completion status.
 
+
+
+# Screenshots
+Visual evidence captured during test execution showing Pass results and Fail defects as proof of testing on Demo Web Shop.
+
+<a href="https://github.com/LOKCHANDHRU/E-Commerce-Web-Application-Manual-Testing-Project/blob/main/E-Commerece%20Web%20Application%20-%20Manual%20Testing%20-%20Screen%20Shots.pdf">Screenshots</a>
 
 
 
